@@ -1,4 +1,4 @@
-//creo una variabile numero che sarà uguale a 1 (in modo) somma che sarà 0 e un ciclo per calcolare la somma dei primi 10 numeri
+//creo una variabile somma che sarà 0 e un ciclo per calcolare la somma dei primi 10 numeri
 
 var somma=0;
 
