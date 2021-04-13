@@ -24,3 +24,21 @@ if(invitato__trovato){
 }else{
     alert('Non sei stato invitato!');
 }
+
+//se non volessi usare la flag (true/false) posso usare questo metodo ma è meno consigliato
+
+/* for(var i=0; i<invitati_array.length; i++){
+    var invitato= invitati_array[i];
+    
+    if(nome===invitato){
+         console.log("puoi entrare");
+         break;
+
+    }
+}
+if(nome===invitati_array[i]){
+    alert("Puoi entrare!")
+}else{
+    alert('Non sei stato invitato!');
+}
+ */
